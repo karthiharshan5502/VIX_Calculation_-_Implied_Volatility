@@ -27,7 +27,6 @@ Calculate VIX and implied volatility across multiple dates (Jan–Feb 2015) and 
 
 ```
 ├── MATH802_project_2024.pdf        # Full written project report with SAS outputs
-├── MATH802.pdf                     # Assignment brief and instructions
 └── vixwhite.pdf                    # CBOE VIX White Paper (reference methodology)
 ```
 
