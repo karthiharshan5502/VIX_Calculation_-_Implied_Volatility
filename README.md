@@ -149,13 +149,3 @@ The SAS code is written generically — simply change the date filter to calcula
 - CBOE (2014). *The CBOE Volatility Index — VIX White Paper*. Chicago Board Options Exchange.
 - Black, F. & Scholes, M. (1973). The pricing of options and corporate liabilities. *Journal of Political Economy*, 81(3), 637–654.
 
----
-
-## 🏫 Course Information
-
-| Field | Detail |
-|---|---|
-| Course | MATH802 — Advanced Financial Modelling & Analytics |
-| Institution | Auckland University of Technology (AUT) |
-| Semester | Semester 1, 2024 |
-| Assessment | Written Project (40%) |
