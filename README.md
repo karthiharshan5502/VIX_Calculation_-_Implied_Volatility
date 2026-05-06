@@ -4,7 +4,7 @@ Implementing the CBOE VIX formula and at-the-money implied volatility estimation
 
 ## 📌 Overview
 
-This project replicates the **CBOE Volatility Index (VIX)** methodology from scratch using real S&P 500 options data and estimates **at-the-money implied volatility** via the **Newton-Raphson method**. Implemented entirely in **SAS (IML)** as part of MATH802 — Advanced Financial Modelling & Analytics at AUT (Semester 1, 2024).
+This project replicates the **CBOE Volatility Index (VIX)** methodology from scratch using real S&P 500 options data and estimates **at-the-money implied volatility** via the **Newton-Raphson method**. Implemented entirely in **SAS (IML)**.
 
 ---
 
